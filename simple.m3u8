@@ -29,8 +29,8 @@ http://s1.merlive.am:80/stslove/index.m3u8
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские" tvg-logo="http://epg.one/img/79.png",СТС HD
 https://s1.merlive.am/stshd/index.m3u8
-#EXTINF:-1 group-title="Общероссийские" tvg-logo="http://epg.one/img/18.png",РЕН ТВ
-http://185.23.80.28:8080/REN/index.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="http://epg.one/img/18.png",РЕН ТВ HD
+http://185.23.80.28:8080/REN_HD/index.m3u8?token=iptv50na50
 #EXTINF:-1 group-title="Общероссийские" tvg-logo="http://epg.one/img/649.png",ТВЦ
 http://flu.ttk.mx:90/TVC/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Общероссийские" tvg-logo="http://epg.one/img/1598.png",Че
