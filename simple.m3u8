@@ -37,7 +37,7 @@ http://flu.ttk.mx:90/TVC/mono.m3u8?token=hs06e
 https://s1.merlive.am/chetv/index.m3u8
 #EXTINF:-1 group-title="Общероссийские",ОТР
 http://flu.ttk.mx:90/OTR/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Общероссийские" tvg-name="Звезда",Звезда HD
+#EXTINF:-1 group-title="Общероссийские" tvg-name="Звезда HD",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Общероссийские",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
